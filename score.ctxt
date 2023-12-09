@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=score
+comment0.text=\r\n\ Kelompok\ 6\r\n\ Dito\ Hardiansyah\r\n\ Novariyani\ Nur\ Ramadhani\r\n\ Sendhy\ Rhysa\ \r\n
+comment1.params=
+comment1.target=score()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=txt
+comment3.target=void\ print(java.lang.String)
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=world
+comment5.target=void\ addedToWorld(greenfoot.World)
+numComments=6
